@@ -4,7 +4,7 @@
 #include<stdlib.h>
 #include<stack>
 #include<vector>
-#include<unistd.h>
+//#include<unistd.h>
 using namespace std;
 char s[100];//for input string
 vector<string>st;//to store history of commands
